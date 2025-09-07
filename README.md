@@ -1,20 +1,20 @@
 # Iron Lady Chatbot
 
-A simple FAQ-based chatbot for **Iron Ladyís leadership programs**, built in Python.  
+A simple FAQ-based chatbot for **Iron Lady‚Äôs leadership programs**, built in Python.  
 This chatbot answers the most common questions about Iron Lady and provides a friendly, interactive experience.
 
 ---
 
-## ? Features
-- **Interactive FAQ Menu** ñ Users can choose from a list of questions by typing `1, 2, 3...`.
-- **Fuzzy Matching** ñ Handles typos and variations (e.g., ìprogram timeî, ìhow longî ? duration).
-- **Synonym Support** ñ Recognizes multiple ways of asking the same question.
-- **Context Awareness** ñ Remembers the last topic and handles follow-up questions.
-- **Friendly Conversation Flow** ñ Greets users by name and ends politely.
+## Features
+- **Interactive FAQ Menu** ‚Äì Users can choose from a list of questions by typing `1, 2, 3...`.
+- **Fuzzy Matching** ‚Äì Handles typos and variations (e.g., ‚Äúprogram time‚Äù, ‚Äúhow long‚Äù ? duration).
+- **Synonym Support** ‚Äì Recognizes multiple ways of asking the same question.
+- **Context Awareness** ‚Äì Remembers the last topic and handles follow-up questions.
+- **Friendly Conversation Flow** ‚Äì Greets users by name and ends politely.
 
 ---
 
-## ?? FAQs Covered
+## FAQs Covered
 1. What programs does Iron Lady offer?
 2. What is the program duration?
 3. Is the program online or offline?
@@ -23,13 +23,13 @@ This chatbot answers the most common questions about Iron Lady and provides a fr
 
 ---
 
-## ??? Tech Stack
+## Tech Stack
 - **Python 3.x**
 - [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) for flexible matching
 
 ---
 
-## ?? Installation & Usage
+## Installation & Usage
 
 1. **Clone the repo**
    ```bash
@@ -43,11 +43,11 @@ pip install -r requirements.txt
 
 
 
-3.run the chatbot
+3. run the chatbot
 python chatbot.py
 
 4. start chatting
-Iron Lady Chatbot: Hello! Iím here to answer your questions about Iron Ladyís programs.
+Iron Lady Chatbot: Hello! I‚Äôm here to answer your questions about Iron Lady‚Äôs programs.
 Type 'exit' to end the chat.
 
 Here are some popular questions you can ask:
@@ -58,4 +58,5 @@ Here are some popular questions you can ask:
 5. Who are the mentors/coaches?
 
 5. Author
+
 this app is made for FAQ for iron lady 
